@@ -1,3 +1,3 @@
 # Kaden Hart GitHub page for Work Samples 
 
-### [Math 4610](https://gftbs.github.io/math4610)  
+### [Computational Mathematics Software Manual](https://kadenhart.github.io/Software_Manual/toc.md)  
