@@ -22,9 +22,9 @@ Output from the lines above:
 
 **Implementation/Code:** The following is the code for absError(double computed, double actual)
 
-double absError(double computed, double actual){
-    return std::abs(actual - computed);
-}
+      double absError(double computed, double actual){
+          return std::abs(actual - computed);
+      }
 
 
 **Last Modified:** October/2019
