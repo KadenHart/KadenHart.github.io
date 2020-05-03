@@ -22,9 +22,9 @@ Output from the lines above:
 
 **Implementation/Code:** The following is the code for relError(double computed, double actual)  
 
-double relError(double computed, double actual){  
-    return std::abs((actual - computed)/ actual);  
-}  
+      double relError(double computed, double actual){  
+          return std::abs((actual - computed)/ actual);  
+      }  
 
 
 **Last Modified:** October/2019  
