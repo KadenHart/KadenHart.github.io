@@ -1,5 +1,6 @@
 # Math 4610 Software Manual Table of Contents  
-Use this table of contents to quickly find the routine you are looking for  
+Use this table of contents to quickly find the routine you are looking for.  
+This will compile to a shared library with [CMakeLists.txt](https://kadenhart.github.io/src/CMakeLists.txt)
 ## Basic Routines    
 [Absolute Error](https://kadenhart.github.io/Software_Manual/procedures/absoluteError)    
 [Relative Error](https://kadenhart.github.io/Software_Manual/procedures/relError)   
